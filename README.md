@@ -14,7 +14,7 @@ The purpose of this analysis was threefold:
 ### Comparison of stock performance - 2017 and 2018
 ~~Using images and examples of your code~~
 Even at a glance, it is clear that the market was kinder to green stocks in 2017 than in 2018. Only two stock (ENPH and RUN) had positive movement in 2018, while in 2017 all but one stock did so. It seems likely that influences on the  market as a whole heavily influenced this patter. Subsequent analysis should compare these stocks with other in defferent sectors to help peel apart the layers of the attributes that affect stock movement. 
-
+https://github.com/DrBuddyO1/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png
 ### Comparison of execution times - original  / refactored script
 ~~Using images and examples of your code~~
 ## Summary: 
