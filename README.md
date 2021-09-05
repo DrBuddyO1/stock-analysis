@@ -24,7 +24,7 @@ Even at a glance, it is clear that the market was kinder to green stocks in 2017
 
 Execution times were significantly improved by the refactoring of the code. Times went from 
 
-![2018 stock performance with execution times](
+![2018 stock performance with execution times](https://github.com/DrBuddyO1/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ## Summary: 
 ~~In a summary statement, address the following questions.~~
