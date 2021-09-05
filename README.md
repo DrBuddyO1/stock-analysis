@@ -2,6 +2,7 @@
 
 ## Overview of Project: Explain the purpose of this analysis.
 
+
 ## Results: 
 
 ### Using images and examples of your code, compare the stock performance between 2017 and 2018
