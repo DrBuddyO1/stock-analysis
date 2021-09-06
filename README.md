@@ -16,6 +16,15 @@ The purpose of this analysis was threefold:
 Even at a glance, it is clear that the market was kinder to green stocks in 2017 than in 2018. Only two stock (ENPH and RUN) had positive movement in 2018, while in 2017 all but one stock did so. It seems likely that influences on the  market as a whole heavily influenced this patter. Subsequent analysis should compare these stocks with other in defferent sectors to help peel apart the layers of the attributes that affect stock movement. 
 
 ![2017 stock performance](https://github.com/DrBuddyO1/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
+The following code represent the final struggle with establishing proper execution of the code. The line of = signs was used to establish a visual marker to the site in question and alternative efforts were "commented out" in turn to establish the behavior exhibited by each. 
+
+`            'EDIT OUT======================================================================================
+            '3b) Check if the current row is the first row with the selected tickerIndex.
+            If Cells(i - 1, 1).Value <> tickers(tickersIndex) And Cells(i, 1).Value = tickers(tickersIndex) Then
+                tickerStartingPrices(tickersIndex) = Cells(i, 6).Value
+            End If
+`
 ### Comparison of execution times - original  / refactored script
 Execution times were significantly improved by the refactoring of the code. Times went from ~1.2 seonds to less than a second with this simple refactoring. 
 
